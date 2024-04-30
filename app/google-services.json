@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875939416578",
+    "project_id": "mobilalk-daaf3",
+    "storage_bucket": "mobilalk-daaf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875939416578:android:7c3fa1ca359b60cab1f51b",
+        "android_client_info": {
+          "package_name": "com.example.muszakistore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs424qNO7iqCpkDtTIx8XA_JP6eAjjWgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
