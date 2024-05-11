@@ -20,7 +20,7 @@ Login:
 
 # CRUD műveletek
 
-Bejelentkezés után meglátunk egy már feltöltött terméklistát A már meglévőeket ne töröld kérlek, amikor majd az én programomat javítod!!
+Bejelentkezés után meglátunk egy már feltöltött terméklistát
 
     Itt tudjuk módosítani, törölni őket.
     Ha új elemet akarunk az adatbázishoz adni, új név, kategória, ár, kép fog kelleni!
