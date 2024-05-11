@@ -17,6 +17,7 @@ Login:
     Firebase authentikációt használ.
     Helyesnek kell lennie minden adatnak.
     Minden mezőt ki kell tölteni.
+    Mielőtt megpróbálsz bejelentkezni engedélyezd a telefonon az alkalmazáshoz a notificationt mert a bejelentkezésnél valósítottam meg egyet.
 
 # CRUD műveletek
 
